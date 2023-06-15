@@ -1,7 +1,7 @@
 
 -> About This Project
 
-This small React Application uses Leaflet Maps to display icon markers of every major city in the world. The markers are populated from a JSON file that resides inside the React Application, which provides Leaflet with the following:
+This simple React application uses Leaflet Maps to show icon markers for all of the world's main cities. The markers are filled in using data from a JSON file that is part of the React Application and gives Leaflet the following:
 
 - City ID
 - City Name
